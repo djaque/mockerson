@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/TywinLannister",
+        "method": "GET",
+        "body": "A lion doesn't concern himself with the opinions of a sheep",
+        "code": 200
+    },
+    {
+        "path": "/TyronLannister",
+        "method": "GET",
+        "body": "I drink and I know things",
+        "code": 200
+    },
+    {
+        "path": "/TyronLannister",
+        "method": "POST",
+        "body": "Let me give you some advice, bastard. Never forget what you are, the rest of the world will not. Wear it like armour and it can never be used to hurt you",
+        "code": 200
+    },
+    {
+        "path": "/KarlDrogo",
+        "method": "GET",
+        "body": "When the sun rises in the west and sets in the east, when the seas go dry and the mountains blow in the wind like leaves. When your womb quickens again, and you bear a living child. Then he will return, and not before",
+        "code": 200
+    },
+    {
+        "path": "/Ygritte",
+        "method": "GET",
+        "body": "You know nothing, Jon Snow",
+        "code": 200
+    },
+    {
+        "path": "/DanaerysTargaryen",
+        "method": "GET",
+        "body": "I'm not going to stop the wheel; I'm going to break the wheel",
+        "code": 200
+    },
+    {
+        "path": "/AryaStark",
+        "method": "GET",
+        "body": "Nothing is neither better nor worse that anything. Nothing is simply nothing",
+        "code": 200
+    },
+    {
+        "path": "/AryaStark",
+        "method": "PUT",
+        "body": "What do we say to the God of death? Syrio Forel Not today",
+        "code": 200
+    },
+    {
+        "method": "GET",
+        "body": "Hold the Door!",
+        "path": "/BranStark",
+        "code": 200
+    },
+    {
+        "method": "GET",
+        "body": "The king in the north",
+        "path": "/LyannaMormont",
+        "code": 200
+	}
+]
