@@ -8,7 +8,8 @@
     {
         "path": "/TyronLannister",
         "method": "GET",
-        "body": "I drink and I know things",
+        "body": "",
+        "file": "tyrion.txt",
         "code": 200
     },
     {
